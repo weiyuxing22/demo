@@ -1,7 +1,6 @@
 # Demo project README 
 
-this is a test 
+This is a sample read file
 
-adding some stuff here to test
-
-I hope this would not be much of a problem 
+## Heading 2
+Just something going on 
